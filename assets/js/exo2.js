@@ -1,5 +1,4 @@
-  //déclaration de la variable
-document.getElementById("lastname").onblur = function() {thanks()};
-function thanks(){
+  //déclaration de la fonction
+  function thanks(){
 alert("Merci de votre participation");
 }
